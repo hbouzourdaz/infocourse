@@ -27,13 +27,13 @@ export default function L1(){
                     <div className="container mx-auto">
                         <div className="flex flex-wrap">
                             <div className="mb-8 lg:mb-0 px-2 w-full pb-6">
-                                <h3 className="text-xl lg:text-2xl font-semibold capitalize text-center mb-2">semester 1</h3>
+                                <h3 className="text-xl lg:text-2xl font-semibold capitalize text-center mb-2">الفصل الأول</h3>
                                 <div className="py-1 w-full relative h-96 lg:h-80">
                                     <Iframe sourceId="1MhHWUZ3M52kJxT_RUWaMiawaw0j5_MKZ" title="1er math et informatique modules of semester 1"/>
                                 </div>
                             </div>
                             <div className="mb-8 lg:mb-0 px-2 w-full pb-6">
-                                <h3 className="text-xl lg:text-2xl font-semibold capitalize text-center mb-2">semester 2</h3>
+                                <h3 className="text-xl lg:text-2xl font-semibold capitalize text-center mb-2">الفصل الثاني</h3>
                                 <div className="py-1 w-full relative h-96 lg:h-80">
                                     <Iframe sourceId="1oN-SA1U4c2OfXCXbelgIztf1_9tPHU9n" title="1er math et informatique modules of semester 2"/>
                                 </div>
